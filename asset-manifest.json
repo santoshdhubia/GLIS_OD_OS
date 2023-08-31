@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GLIS_OD_OS/static/css/main.f4c5b30c.css",
+    "main.js": "/GLIS_OD_OS/static/js/main.bbdae58b.js",
+    "static/media/GLIS_OS_EXE.zip": "/GLIS_OD_OS/static/media/GLIS_OS_EXE.4314b7a2cf25bb3d5365.zip",
+    "static/media/Mannual_document_GLIS_OS.pdf": "/GLIS_OD_OS/static/media/Mannual_document_GLIS_OS.209ea43b0541f5ee6116.pdf",
+    "static/media/image 2.png": "/GLIS_OD_OS/static/media/image 2.add29305f96f85d79210.png",
+    "static/media/GLIS_logo.png": "/GLIS_OD_OS/static/media/GLIS_logo.f2030135886c2b4c0968.png",
+    "static/media/glis_background.png": "/GLIS_OD_OS/static/media/glis_background.29fc97425faa8da730ab.png",
+    "static/media/image 1.png": "/GLIS_OD_OS/static/media/image 1.c932c3371c32aa850546.png",
+    "index.html": "/GLIS_OD_OS/index.html",
+    "main.f4c5b30c.css.map": "/GLIS_OD_OS/static/css/main.f4c5b30c.css.map",
+    "main.bbdae58b.js.map": "/GLIS_OD_OS/static/js/main.bbdae58b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c5b30c.css",
+    "static/js/main.bbdae58b.js"
+  ]
+}
